@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1A237E</color>
+    <color name="colorPrimaryDark">#000051</color>
+    <color name="colorAccent">#536DFE</color>
+    <color name="colorPrimaryVariant">#283593</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#536DFE</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorError">#B00020</color>
+
+    <color name="green_active">#2E7D32</color>
+    <color name="red_block">#C62828</color>
+    <color name="gray_inactive">#757575</color>
+    <color name="orange_warn">#E65100</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="badge_text">#FFFFFF</color>
+
+    <color name="switch_thumb_on">#536DFE</color>
+    <color name="switch_thumb_off">#9E9E9E</color>
+    <color name="switch_track_on">#80536DFE</color>
+    <color name="switch_track_off">#33000000</color>
+
+    <color name="fab_active">#C62828</color>
+    <color name="fab_inactive">#1A237E</color>
+</resources>

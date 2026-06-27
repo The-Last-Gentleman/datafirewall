@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <item
+        android:id="@+id/action_toggle_system"
+        android:title="Show System Apps"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sort_blocked"
+        android:title="Sort: Blocked First"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_unblock_all"
+        android:title="Unblock All Apps"
+        app:showAsAction="never" />
+
+</menu>
